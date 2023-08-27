@@ -23,7 +23,5 @@ The second milestone builds upon the work of Milestone 1 and focuses on adding i
 ## Data Sets and Analysis  
 The project uses two datasets: "parks" and "dog off-leash parks," which provide information about parks and dog off-leash areas in Vancouver neighborhoods. The primary analysis involves calculating the percentage of dog off-leash parks among all parks in each neighborhood.  
 
-- Parks Dataset: Link
-- Dog Off-Leash Parks Dataset: Link
-[Parks Dataset](https://opendata.vancouver.ca/explore/dataset/parks/table/?sort=name&location=12,49.25492,-123.10215)
-[Dog Off-Leash Parks Dataset](https://opendata.vancouver.ca/explore/dataset/dog-off-leash-parks/table/?location=13,49.23133,-123.08438)
+- Parks Dataset: [Parks Dataset](https://opendata.vancouver.ca/explore/dataset/parks/table/?sort=name&location=12,49.25492,-123.10215)
+- Dog Off-Leash Parks Dataset: [Dog Off-Leash Parks Dataset](https://opendata.vancouver.ca/explore/dataset/dog-off-leash-parks/table/?location=13,49.23133,-123.08438)
